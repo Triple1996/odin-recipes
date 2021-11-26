@@ -1,0 +1,7 @@
+*{
+    text-align: center;
+}
+.container{
+    border-color: red;
+    border-radius: 100%;
+}
