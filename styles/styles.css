@@ -1,7 +1,16 @@
-*{
-    text-align: center;
+h1 {
+    text-align:center;
+    font-family: 'Playfair Display', serif;
+    font-size: 3rem;
+    font-weight: bold;
+    text-decoration: underline;
 }
-.container{
-    border-color: red;
-    border-radius: 100%;
+
+body {
+    background: linear-gradient(180deg, #FFEEEE, #DDEFBB);
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
 }
